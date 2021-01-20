@@ -6,3 +6,11 @@ No URL passed to function
 Time is:  01:58:59 PM
 Date is:  01-20-2021
 Good Night
+========================================
+Результат без параметрів: 
+No URL passed to function
+========================================
+Результат з правильною URL: 
+Time is:  02:01:56 PM
+Date is:  01-20-2021
+Good Night

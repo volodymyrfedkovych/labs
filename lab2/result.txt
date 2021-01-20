@@ -1,0 +1,8 @@
+============================= test session starts ==============================
+platform linux -- Python 3.8.5, pytest-6.2.1, py-1.10.0, pluggy-0.13.1
+rootdir: /home/sankja/labs/lab2
+collected 4 items
+
+tests/tests.py ....                                                      [100%]
+
+============================== 4 passed in 2.49s ===============================
