@@ -1,0 +1,9 @@
+INFO 2021-01-20 16:34:22,350 root : Сервер доступний. Час на сервері: 2021-01-20T14:34:22.349152
+INFO 2021-01-20 16:34:22,350 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2021-01-20 16:34:22,350 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-20 16:34:22,350 root : Ключ: servername, Значення: lab server
+INFO 2021-01-20 16:34:22,350 root : Ключ: random, Значення: 234
+INFO 2021-01-20 16:34:22,350 root : Ключ: datetime, Значення: 2021-01-20T14:34:22.349152
+INFO 2021-01-20 16:34:22,350 root : Ключ: server_url, Значення: http://localhost:8000/health/
+INFO 2021-01-20 16:34:22,350 root : Ключ: server_iinfo, Значення: {'system': 'posix', 'srv_pid': 81770}
+INFO 2021-01-20 16:34:22,350 root : Ключ: client_info, Значення: {'user agent': 'python-requests/2.22.0', 'remote addr': '127.0.0.1', 'remote host': ''}
